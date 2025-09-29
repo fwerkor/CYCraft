@@ -2,7 +2,7 @@
 
 A Minecraft modpack developed by FWERKOR Team, with an official server maintained by us. 
 
-![LOGO](logo.png)
+![LOGO](https://blog.fwerkor.com/wp-content/uploads/2025/09/cycraft-logo.png)
 
 ## Official Server
 
